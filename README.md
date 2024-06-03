@@ -119,6 +119,7 @@ A collection of academic papers on the subject of **conformal prediction**.
 | Kaur et al.      | [iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection](https://ojs.aaai.org/index.php/AAAI/article/view/20670)                                                     | AAAI    | [[Code]](https://github.com/ramneetk/iDECODe)                                |
 | Xu et al.        | [Modern Theoretical Tools for Designing Information Retrieval System](https://dl.acm.org/doi/10.1145/3534678.3542614)                                                                           | KDD     |                                                                              |
 | Li et al.        | [PAC-Wrap: Semi-Supervised PAC Anomaly Detection](https://dl.acm.org/doi/10.1145/3534678.3539408)                                                                                               | KDD     |                                                                              |
+| Barbero et al.      | [Transcending Transcend: Revisiting Malware Classification in the Presence of Concept Drift](https://arxiv.org/abs/2010.03856)                                                     | IEEE S&P    | [[Code]](https://github.com/s2labres/transcendent-release?tab=readme-ov-file)                                |
 
 
 ### 2021
