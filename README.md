@@ -95,6 +95,8 @@ A collection of academic papers on the subject of **conformal prediction**.
 | Ghosh et al.        | [Improving Uncertainty Quantification of Deep Classifiers via Neighborhood Conformal Prediction: Novel Algorithm and Theoretical Analysis](https://ojs.aaai.org/index.php/AAAI/article/view/25936)     | AAAI    | [[Code]](https://github.com/medford-group/conformal_prediction_in_latent_space)                |
 | Chen et al.         | [IPOC: An Adaptive Interval Prediction Model based on Online Chasing and Conformal Inference for Large-Scale Systems](https://dl.acm.org/doi/10.1145/3580305.3599396)                                  | KDD     |                                                                                                |
 | Kong et al.         | [Uncertainty Quantification in Deep Learning](https://dl.acm.org/doi/abs/10.1145/3580305.3599577)                                                                                                      | KDD     |                                                                                                |
+| Park et al.     | [{ACon^ 2}: Adaptive Conformal Consensus for Provable Blockchain Oracles](https://www.usenix.org/conference/usenixsecurity23/presentation/park)                                                                     | USENIX Security    | [[Code]](https://github.com/sslab-gatech/acon2)     
+| Tian et al.     | [Sparsity brings vulnerabilities: exploring new metrics in backdoor attacks](https://www.usenix.org/conference/usenixsecurity23/presentation/tian)                                                                     | USENIX Security    | [[Code]](https://github.com/sslab-gatech/acon2) 
 
 
 ### 2022
