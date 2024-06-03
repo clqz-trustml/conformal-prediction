@@ -145,5 +145,6 @@ A collection of academic papers on the subject of **conformal prediction**.
 | Franca et al.  | [Conformal Symplectic and Relativistic Optimization](https://proceedings.neurips.cc/paper/2020/hash/c4b108f53550f1d5967305a9a8140ddd-Abstract.html)               | NeurIPS 2020  |      |
 | Ndiaye et al.       | [Computing full conformal prediction set with approximate homotopy](https://proceedings.neurips.cc/paper/2019/hash/9e3cfc48eccf81a0d57663e129aef3cb-Abstract.html) | NeurIPS 2019 |  [[Code]](https://github.com/EugeneNdiaye/homotopy_conformal_prediction) ||
 | Vovk V. | [Cross-conformal predictors](https://link.springer.com/article/10.1007/s10472-013-9368-4) | Annals of Mathematics and Artificial Intelligence 2015 |  ||
+| Jordaney et al.       | [Transcend: Detecting Concept Drift in Malware Classification Models](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/jordaney) | USENIX Security 2017 |  ||
 ---
 
